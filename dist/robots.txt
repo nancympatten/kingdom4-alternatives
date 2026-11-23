@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://software-alternatives-atlas.netlify.app/sitemap.xml
